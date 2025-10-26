@@ -4,3 +4,8 @@ IWSLT2017
 datasets
 Annotated_T
 ollama*
+old
+*.env
+Helper/.env
+# macOS
+.DS_Store
